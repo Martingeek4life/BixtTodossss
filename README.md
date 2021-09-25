@@ -1,5 +1,5 @@
 # BixtTodos
-a Bixterprise tools for manage his projects
+a Bixterprise tools for manage yours projects base on vuejs 2
 
 ![alt text](./todos.png)
 
