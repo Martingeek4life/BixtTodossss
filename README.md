@@ -24,6 +24,3 @@ yarn run unit
 
 # run e2e tests
 yarn run e2e
-
-# run all tests
-yarn  test
